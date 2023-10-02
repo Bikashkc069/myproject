@@ -2,7 +2,5 @@ ect" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:Bikashkc069/myproject.git
-git push -u origi main
-
+git branch -M mai
+hhyhh hyhi
